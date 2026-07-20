@@ -22,7 +22,7 @@
 - 🌱 Learning **Angular** and improving backend skills  
 - 🤝 Open to collaborating on **Frontend & Open Source Projects**
 
-📫 **Email:** faisalfayazfaisal02@gmail.com  
+📫 **Email:** faisalfayaz825@gmail.com  
 
 ---
 
