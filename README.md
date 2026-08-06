@@ -1,206 +1,285 @@
-<h1 align="center">Hi 👋, I'm Faisal Fayaz</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | React.js • Next.js • NestJS • Node.js • TypeScript
-</h3>
+# Hi, I'm Faisal Fayaz 👋
 
-<p align="center">
+### Full Stack Engineer
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Full-Stack+Applications;From+Database+Schema+to+Production+UI"
+    alt="Typing SVG"
+  />
+</a>
+
+<br/>
+
+<p>
   <a href="https://github.com/FaisalFayaz709">
-    <img src="https://komarev.com/ghpvc/?username=FaisalFayaz709&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=FaisalFayaz709&label=Profile%20Views&color=2f80ed&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/faisal-fayaz-9703183a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:faisalfayaz825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  Building scalable web applications from database design and backend APIs to responsive frontend experiences.
-</p>
+📍 **Lahore, Pakistan**   •   💻 **Full Stack Engineering**   •   🚀 **Open to Software Engineering Opportunities**
 
-<p align="center">
-  📍 Lahore, Pakistan &nbsp;•&nbsp;
-  💻 Full Stack Development &nbsp;•&nbsp;
-  🚀 Open to Software Engineering Opportunities
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with hands-on experience building and maintaining production web applications using modern JavaScript and TypeScript technologies.
+I'm a **Full Stack Engineer** focused on designing and building reliable, scalable web applications using modern **JavaScript and TypeScript ecosystems**.
 
-I work across the complete development lifecycle — from **database schema design and REST API development to authentication, frontend integration, debugging, and deployment**.
+My experience spans the complete application lifecycle — from **database schema design and backend architecture to REST APIs, authentication, frontend development, debugging, containerization, and deployment**.
 
-* 💼 Currently working with **React.js, NestJS, TypeScript, PostgreSQL, and Prisma**
-* ⚛️ Building responsive and maintainable frontend applications with **React.js & Next.js**
-* ⚙️ Developing scalable backend services with **Node.js, Express.js & NestJS**
-* 🗄️ Working with relational and NoSQL databases including **PostgreSQL & MongoDB**
-* 🔐 Experienced with **JWT Authentication and Role-Based Access Control**
-* 🐳 Familiar with **Docker, CI/CD workflows, GitHub Actions, and API documentation**
-* 🧩 Interested in **clean architecture, system design, performance, and scalable applications**
-* 🤝 Open to collaborating on meaningful **full-stack and open-source projects**
+I enjoy taking ownership of features end-to-end and turning business requirements into maintainable software.
+
+* 💼 Building production applications with **React.js, NestJS, TypeScript, PostgreSQL & Prisma**
+* ⚛️ Developing responsive frontend experiences with **React.js & Next.js**
+* ⚙️ Designing backend systems using **NestJS, Node.js & Express.js**
+* 🗄️ Working with **PostgreSQL, MongoDB, Prisma ORM & relational data modeling**
+* 🔐 Implementing **JWT authentication, authorization & Role-Based Access Control**
+* 🔄 Building and integrating **RESTful APIs**
+* 🐳 Working with **Docker, Docker Compose & CI/CD pipelines**
+* 🧠 Interested in **System Design, Clean Architecture, SOLID principles & scalable systems**
+* 🔧 Comfortable debugging application, API, database, and data-integrity issues
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="TypeScript, JavaScript, HTML and CSS" />
 </p>
 
-### Frontend
+### Frontend Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS and Bootstrap" />
 </p>
 
-### Backend
+**React.js** • **Next.js** • **TypeScript** • **JavaScript ES6+** • **HTML5** • **CSS3** • **Tailwind CSS** • **Bootstrap**
+
+### Backend Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Node.js, Express.js and NestJS" />
 </p>
 
-### Databases & ORM
+**NestJS** • **Node.js** • **Express.js** • **RESTful APIs** • **JWT Authentication** • **RBAC**
+
+### Database & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="Databases and ORM" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="PostgreSQL, MongoDB, MySQL and Prisma" />
 </p>
 
-### DevOps & Tools
+**PostgreSQL** • **MongoDB** • **MySQL** • **Prisma ORM** • **Schema Design** • **Query Optimization** • **Data Migration**
+
+### DevOps & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,npm,vscode" alt="Docker, Git, GitHub, npm and VS Code" />
 </p>
+
+**Docker** • **Docker Compose** • **Git** • **GitHub** • **GitHub Actions** • **CI/CD** • **Swagger / OpenAPI**
 
 ---
 
-## 🚀 What I Work With
+## 🧩 Engineering Focus
 
 ```text
-Frontend      React.js • Next.js • TypeScript • JavaScript
-              Tailwind CSS • Bootstrap • Responsive UI
+Frontend       React.js • Next.js • TypeScript
+               Responsive UI • Component Architecture
 
-Backend       NestJS • Node.js • Express.js • REST APIs
+Backend        NestJS • Node.js • Express.js
+               REST APIs • Modular Architecture
 
-Database      PostgreSQL • MongoDB • Prisma ORM
-              Schema Design • Queries • Data Migration
+Database       PostgreSQL • MongoDB • Prisma ORM
+               Relational Modeling • Data Integrity
 
-Security      JWT Authentication • RBAC • API Security
+Security       JWT Authentication • RBAC
+               Protected APIs • Authorization
 
-DevOps        Docker • Docker Compose • GitHub Actions
-              CI/CD • Git • GitHub
+DevOps         Docker • Docker Compose
+               GitHub Actions • CI/CD
 
-Practices     Clean Architecture • SOLID Principles
-              Agile/Scrum • Debugging • System Design
+Engineering    Clean Architecture • SOLID
+               Debugging • System Design • Git Flow
 ```
 
 ---
 
-## 💼 Featured Projects
-
-### 🏢 Royal Palm City — Real Estate ERP Platform
-
-**React.js • NestJS • Node.js • TypeScript • PostgreSQL • Prisma**
-
-A full-stack real estate management platform designed to manage property records, customers, bookings, payments, allocations, and financial workflows.
-
-**Key areas I worked on:**
-
-* Property and plot inventory management
-* Customer management
-* Booking and allocation workflows
-* Payment tracking
-* Financial ledger generation
-* PostgreSQL relational schema design
-* REST API development with NestJS
-* React.js dashboard integration
-* Authentication and authorization
-* Production data debugging and integrity fixes
-
----
+## 🚀 Featured Work
 
 ### 🩺 Telemedicine Platform
 
 **React.js • Node.js • Express.js • MongoDB • Docker**
 
-A MERN-stack telemedicine platform with dedicated experiences for **patients, doctors, and administrators**.
+A full-stack telemedicine application designed around separate workflows for **patients, doctors, and administrators**.
 
-**Features include:**
+**Key Engineering Work**
 
-* Patient, doctor, and admin dashboards
-* Appointment booking
-* User authentication
-* Role-based authorization
-* Medical record management
-* Virtual consultation workflows
-* RESTful API architecture
-* MongoDB data modeling
-* Rule-based symptom guidance
-* Dockerized development environment
+* Designed full-stack architecture using the **MERN stack**
+* Built separate patient, doctor, and administration experiences
+* Developed appointment and consultation workflows
+* Implemented **JWT authentication**
+* Added **role-based authorization**
+* Designed RESTful APIs and MongoDB data models
+* Built medical-record management functionality
+* Implemented virtual-consultation workflows
+* Added rule-based preliminary symptom guidance
+* Containerized the application using **Docker**
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=FaisalFayaz709&show_icons=true&hide_border=true"
-    alt="Faisal's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalFayaz709&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalFayaz709&hide_border=true"
-    alt="GitHub Streak"
-  />
+<p>
+  <a href="https://github.com/FaisalFayaz709/telemedicine">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Telemedicine Repository" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Activity
+### 🏢 Real Estate ERP Platform
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=FaisalFayaz709&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"
-    alt="GitHub Trophies"
-  />
-</p>
+**React.js • NestJS • Node.js • TypeScript • PostgreSQL • Prisma**
+
+Production full-stack engineering work on a real-estate ERP handling property, customer, booking, payment, and financial workflows.
+
+**Key Engineering Work**
+
+* Developed modular **NestJS REST APIs**
+* Designed relational **PostgreSQL schemas**
+* Built and maintained **Prisma ORM models**
+* Implemented customer and property-management workflows
+* Worked on booking and allocation lifecycle management
+* Developed payment and financial-ledger functionality
+* Integrated backend APIs with React-based interfaces
+* Implemented authentication and role-based permissions
+* Diagnosed and corrected production data-integrity problems
+* Worked across database, API, and frontend layers
+
+> Professional project — source code is not publicly available.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalFayaz709&theme=github-compact&hide_border=true&area=true&custom_title=Faisal%20Fayaz%27s%20Contribution%20Graph"
+width="100%"
+alt="Faisal Fayaz GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaisalFayaz709&theme=github_dark"
+width="95%"
+alt="Faisal Fayaz GitHub Profile Details"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FaisalFayaz709&theme=github_dark"
+height="180"
+alt="Faisal Fayaz GitHub Stats"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaisalFayaz709&theme=github_dark"
+height="180"
+alt="Languages by Repository"
+/>
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+```ts
+const faisal = {
+  role: "Full Stack Engineer",
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+  ],
+
+  backend: [
+    "NestJS",
+    "Node.js",
+    "Express.js",
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Prisma ORM",
+  ],
+
+  principles: [
+    "Clean Architecture",
+    "SOLID",
+    "Maintainable Code",
+    "Scalable Systems",
+  ],
+
+  currentFocus: "Building reliable software that solves real problems",
+};
+```
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
+I'm interested in connecting with **software engineers, engineering teams, founders, and developers** working on meaningful products.
 
-  <a href="https://github.com/FaisalFayaz709">
-    <img src="https://img.shields.io/badge/GitHub-FaisalFayaz709-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+If you'd like to discuss an opportunity, collaborate on a project, or talk about software engineering, feel free to reach out.
 
-  <a href="mailto:faisalfayaz825@gmail.com">
-    <img src="https://img.shields.io/badge/Email-faisalfayaz825%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="mailto:faisalfayaz825@gmail.com">
+  <img src="https://img.shields.io/badge/Email-faisalfayaz825%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Faisal" />
+</a>
 
-</p>
+<a href="https://www.linkedin.com/in/faisal-fayaz-9703183a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Faisal%20Fayaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/FaisalFayaz709">
+  <img src="https://img.shields.io/badge/GitHub-FaisalFayaz709-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building reliable products, solving real problems, and continuously improving as a software engineer.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Explore my repositories to see what I'm currently building.
-</p>
+### Code. Build. Debug. Improve. Repeat.
+
+<i>Focused on building maintainable software and continuously growing as an engineer.</i>
+
+<br/><br/>
+
+⭐ **Explore my repositories to see what I'm building.**
+
+</div>
