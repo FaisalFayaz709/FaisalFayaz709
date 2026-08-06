@@ -1,33 +1,15 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Faisal Fayaz</h1>
+Hi, I'm Faisal Fayaz 👋
+Full Stack Engineer
 
-<h3>Full Stack Engineer</h3>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Full-Stack+Applications;From+Database+Schema+to+Production+UI" alt="Typing SVG" /> </a>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Web+Applications;Frontend+to+Backend+to+Database;Turning+Ideas+into+Reliable+Software"
-    alt="Typing SVG"
-  />
-</a>
+<br/>
 
-<br/><br/>
+<p> <a href="https://github.com/FaisalFayaz709"> <img src="https://komarev.com/ghpvc/?username=FaisalFayaz709&label=Profile%20Views&color=2f80ed&style=flat" alt="Profile Views" /> </a> <a href="https://www.linkedin.com/in/faisal-fayaz-9703183a6/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:faisalfayaz825@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
-<a href="https://github.com/FaisalFayaz709">
-  <img
-    src="https://komarev.com/ghpvc/?username=FaisalFayaz709&label=Profile%20Views&color=58a6ff&style=flat"
-    alt="Profile Views"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/faisal-fayaz-9703183a6/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-
-<a href="mailto:faisalfayaz825@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+📍 Lahore, Pakistan   •   💻 Full Stack Engineering   •   🚀 Open to Software Engineering Opportunities
 
 </div>
 
