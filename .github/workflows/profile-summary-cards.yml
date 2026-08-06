@@ -8,17 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
+          USERNAME: FaisalFayaz709
+          BRANCH_NAME: main
           UTC_OFFSET: 5
           AUTO_PUSH: true
