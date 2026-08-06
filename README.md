@@ -1,7 +1,7 @@
 <div align="center">
 
-Hi, I'm Faisal Fayaz 👋
-Full Stack Engineer
+<h1>Hi, I'm Faisal Fayaz 👋
+Full Stack Engineer<h1/>
 
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Full-Stack+Applications;From+Database+Schema+to+Production+UI" alt="Typing SVG" /> </a>
 
